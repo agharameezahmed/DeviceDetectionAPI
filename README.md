@@ -2,7 +2,7 @@
 
 This project is created on web api Asp.Net core. Following are the API's and functionalities implemented on this project.
 
-1 -  API Controller method that classify the device in terms of its type (tablet, phone, desktop) and its operating system.
+1 -  API Controller method that classify the device in terms of its type (tablet, phone, desktop) and its operating system.<br/>
 2 -  front-end that enables the user to start the detection and outputs the result.
 
 ## Prerequisites
