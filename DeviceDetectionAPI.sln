@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeviceDetectionAPI", "DeviceDetectionAPI\DeviceDetectionAPI.csproj", "{80823C4D-750D-432A-81AE-66914FF920B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceDetectionApiUnitTest", "DeviceDetectionApiUnitTest\DeviceDetectionApiUnitTest.csproj", "{816A1751-17E3-4C5D-A8EF-D9A4EDA24937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80823C4D-750D-432A-81AE-66914FF920B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80823C4D-750D-432A-81AE-66914FF920B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80823C4D-750D-432A-81AE-66914FF920B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80823C4D-750D-432A-81AE-66914FF920B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816A1751-17E3-4C5D-A8EF-D9A4EDA24937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816A1751-17E3-4C5D-A8EF-D9A4EDA24937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816A1751-17E3-4C5D-A8EF-D9A4EDA24937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816A1751-17E3-4C5D-A8EF-D9A4EDA24937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0116F060-3C1A-4E0B-82E6-CCF8F5E5EC6A}
+	EndGlobalSection
+EndGlobal
