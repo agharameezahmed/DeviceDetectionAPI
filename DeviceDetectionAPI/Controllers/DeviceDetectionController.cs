@@ -15,7 +15,10 @@ namespace DeviceDetectionAPI.Controllers
         {
             _detectionService = detectionService;
         }
-
+        /// <summary>
+        /// classify the device in terms of its type (tablet, phone, desktop) and its operating system
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public async Task<IActionResult> Get()
         {
